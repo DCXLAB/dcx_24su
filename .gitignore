@@ -1,1 +1,10 @@
+# data format
 *.csv
+*.gz
+*.zip
+
+# data
+data/
+
+# tensorboard logs
+runs/
