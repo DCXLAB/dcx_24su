@@ -8,3 +8,7 @@ data/
 
 # tensorboard logs
 runs/
+
+# future weeks
+W4/
+S2T/
